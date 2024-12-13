@@ -1,6 +1,11 @@
-#100xDevs Landing Page
+100xDevs Landing Page
 
-This project is a basic implementaion of Three.js 
-100xDevs Landing Page Using Three.js
-please Scroll using ScrollBar Only to Open Laptop Screen
-To Navigate 3D Model use cursor Mouse.
+Project Overview
+
+This project is a basic implementation of a 3D landing page using Three.js, specifically designed for the 100xDevs initiative. The page features a 3D laptop model that can be explored using mouse interaction.
+
+Key Features
+
+3D Model: A 3D laptop model rendered using Three.js.
+Mouse Interaction: Users can rotate and zoom the model using their mouse.
+Scroll-Triggered Animation: The laptop screen opens up on scrolling down the page.
