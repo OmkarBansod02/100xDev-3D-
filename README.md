@@ -8,4 +8,4 @@ Key Features
 
 3D Model: A 3D laptop model rendered using Three.js.
 Mouse Interaction: Users can rotate and zoom the model using their mouse.
-Scroll-Triggered Animation: The laptop screen opens up on scrolling down the page.and with cursor we can navigate laptop model.
+Scroll-Triggered Animation: The laptop screen opens up on scrolling down the page and with mouse cursor Users can navigate laptop model.
